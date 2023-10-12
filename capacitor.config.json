@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "htmxtest",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
